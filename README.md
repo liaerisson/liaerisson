@@ -65,4 +65,3 @@ I enjoy traveling, hiking, skiing, reading, and bringing people together through
 *Trying to understand how good systems help people make better decisions.*
 
 </div>
-```
