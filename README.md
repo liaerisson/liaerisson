@@ -57,6 +57,7 @@ Because this work relies on proprietary infrastructure and company data, it is n
 ## Beyond the Keyboard
 
 I enjoy traveling, hiking, skiing, reading, and bringing people together through student events. I am also endlessly curious about economics, decision-making, and the intersection of technology and the human experience.
+
 ---
 
 <div align="center">
