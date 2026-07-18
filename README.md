@@ -12,7 +12,7 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lia_Erisson-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](linkedin.com/in/lia-erisson)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lia_Erisson-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lia-erisson/)
 [![Email](https://img.shields.io/badge/Email-Contact-6B7280?style=flat-square&logo=gmail&logoColor=white)](mailto:lia.erisson@mail.mcgill.ca)
 
 </div>
