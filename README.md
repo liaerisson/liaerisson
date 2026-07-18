@@ -23,15 +23,15 @@
 
 I'm a Computer Science and Economics student at McGill University who enjoys problems where computation, data, and economics come together.
 
-Lately, I have been spending most of my time learning about AI agents, databases, and the systems that help people make better decisions under uncertainty.
+Lately, I have been spending time learning about AI agents, databases, and the systems that help people make better decisions under uncertainty.
 
 ## Current Focus
 
 - AI agent architectures
-- Retrieval and knowledge systems
-- Database systems and SQL
+- Information retrieval systems
+- Databases and SQL
 - Applied machine learning
-- Economic decision-making
+- Decision-making under uncertainty
 
 ## Selected Work
 
@@ -47,17 +47,16 @@ As a Product Analyst Intern at **CHEQ**, I am designing a knowledge base for cli
 
 Because this work relies on proprietary infrastructure and company data, it is not publicly available.
 
-## Community
+## Leadership & Community
 
 - VP Events — McGill AI Society
 - VP Events — McWiCS
-- VP Technology — McGill Journal of Economics
-- Student Contributor — McGill Office for Science and Society
+- VP Technology — [McGill Journal of Economics](https://www.mjemcgill.com/)
+- Student Contributor — [McGill Office for Science and Society (Articles)](https://www.mcgill.ca/oss/articles-by-author/Lia%20Erisson)
 
 ## Beyond the Keyboard
 
-I enjoy traveling, hiking, skiing, reading, and bringing people together through student events. I am also endlessly curious about economics, decision-making, and the questions that sit between people and computers.
-
+I enjoy traveling, hiking, skiing, reading, and bringing people together through student events. I am also endlessly curious about economics, decision-making, and the intersection of technology and the human experience.
 ---
 
 <div align="center">
