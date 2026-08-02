@@ -23,7 +23,7 @@
 
 I'm a Computer Science and Economics student at McGill University who enjoys problems where computation, data, and economics come together.
 
-Lately, I have been spending time learning about AI agents, databases, and the systems that help people make better decisions under uncertainty.
+Lately, exploring the intersection of AI, user behavior, and system design to guide decision-making under uncertainty.
 
 ## Current Focus
 
@@ -43,25 +43,22 @@ A research-oriented AI agent built with Amazon Bedrock AgentCore and a retrieval
 
 ### 🗃️ Current Industry Work
 
-As a Product Analyst Intern at **CHEQ**, I am designing a knowledge base for client-facing AI agents. My work involves understanding complex database relationships, writing SQL queries for accurate information retrieval, and validating agent responses through an MCP proof of concept.
-
-Because this work relies on proprietary infrastructure and company data, it is not publicly available.
+As a Product Analyst Intern at **CHEQ**, I am designing knowledge bases for a client-facing AI agent. My work involves understanding complex database relationships, writing SQL queries for accurate information retrieval, and validating agent responses through an MCP proof of concept.
 
 ## Leadership & Community
 
-- VP Events — McGill AI Society
 - VP Events — McWiCS
 - VP Technology — [McGill Journal of Economics](https://www.mjemcgill.com/)
 - Student Contributor — [McGill Office for Science and Society (Articles)](https://www.mcgill.ca/oss/articles-by-author/Lia%20Erisson)
 
 ## Beyond the Keyboard
 
-I enjoy traveling, hiking, skiing, reading, and bringing people together through student events. I am also endlessly curious about economics, decision-making, and the intersection of technology and the human experience.
+I enjoy traveling, hiking, skiing, reading, and bringing people together through student events. I am also endlessly curious about behavioral economics, history, and the intersection of technology and the human experience.
 
 ---
 
 <div align="center">
 
-*Trying to understand how good systems help people make better decisions.*
+*Exploring how good systems help people make better decisions.*
 
 </div>
