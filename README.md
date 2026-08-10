@@ -23,15 +23,15 @@
 
 I'm a Computer Science and Economics student at McGill University who enjoys problems where computation, data, and economics come together.
 
-Lately, exploring the intersection of AI, user behavior, and system design to guide decision-making under uncertainty.
+Lately, I’ve been exploring information retrieval, backend systems, and data-driven decision-making.
 
 ## Current Focus
 
-- AI agent architectures
-- Information retrieval systems
+- Backend and search systems
+- Information retrieval
 - Databases and SQL
 - Applied machine learning
-- Decision-making under uncertainty
+- Quantitative and data-intensive systems
 
 ## Selected Work
 
@@ -40,6 +40,12 @@ Lately, exploring the intersection of AI, user behavior, and system design to gu
 A research-oriented AI agent built with Amazon Bedrock AgentCore and a retrieval knowledge base. It analyzes academic papers and produces structured summaries and glossaries while distinguishing reported evidence from inference and speculation.
 
 `Python` · `Amazon Bedrock` · `AgentCore` · `Information Retrieval`
+
+### 🔎 [Java Document Search Engine](https://github.com/liaerisson/JavaIngestor)
+
+A Java search engine built around a custom inverted index and query-processing pipeline. It supports ranked keyword search through both a command-line interface and Spring Boot REST API, with validation, HTTP error handling, and web-layer testing.
+
+`Java` · `Spring Boot` · `REST APIs` · `Inverted Index` · `JUnit`
 
 ### 🗃️ Current Industry Work
 
@@ -54,11 +60,3 @@ As a Product Analyst Intern at **CHEQ**, I am designing knowledge bases for a cl
 ## Beyond the Keyboard
 
 I enjoy traveling, hiking, skiing, reading, and bringing people together through student events. I am also endlessly curious about behavioral economics, history, and the intersection of technology and the human experience.
-
----
-
-<div align="center">
-
-*Exploring how good systems help people make better decisions.*
-
-</div>
