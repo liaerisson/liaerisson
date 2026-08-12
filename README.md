@@ -41,7 +41,7 @@ A research-oriented AI agent built with Amazon Bedrock AgentCore and a retrieval
 
 `Python` · `Amazon Bedrock` · `AgentCore` · `Information Retrieval`
 
-### 🔎 [Java Document Search Engine](https://github.com/liaerisson/JavaIngestor)
+### 🔎 [Java Document Search Engine](https://github.com/liaerisson/FileIngestor)
 
 A Java search engine built around a custom inverted index and query-processing pipeline. It supports ranked keyword search through both a command-line interface and Spring Boot REST API, with validation, HTTP error handling, and web-layer testing.
 
