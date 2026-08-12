@@ -47,9 +47,9 @@ A Java search engine built around a custom inverted index and query-processing p
 
 `Java` · `Spring Boot` · `REST APIs` · `Inverted Index` · `JUnit`
 
-### 🗃️ Current Industry Work
+### 🗃️ Summer Industry Work
 
-As a Product Analyst Intern at **CHEQ**, I am designing knowledge bases for a client-facing AI agent. My work involves understanding complex database relationships, writing SQL queries for accurate information retrieval, and validating agent responses through an MCP proof of concept.
+As a Product Analyst Intern at **CHEQ**, I designed knowledge bases for a client-facing AI agent. My work involved understanding complex database relationships, writing SQL queries for accurate information retrieval, and validating agent responses through an MCP proof of concept.
 
 ## Leadership & Community
 
