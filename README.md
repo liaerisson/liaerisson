@@ -53,9 +53,10 @@ As a Product Analyst Intern at **CHEQ**, I designed knowledge bases for a client
 
 ## Leadership & Community
 
-- VP Events — McWiCS
+- VP Events — McWiCS (McGill Women in CS)
 - VP Technology — [McGill Journal of Economics](https://www.mjemcgill.com/)
 - Student Contributor — [McGill Office for Science and Society (Articles)](https://www.mcgill.ca/oss/articles-by-author/Lia%20Erisson)
+- Recently, I've also become VP Events at the McGill AI Society (MAIS)!
 
 ## Beyond the Keyboard
 
