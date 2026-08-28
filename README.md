@@ -8,12 +8,13 @@
 
 ### Computer Science & Economics @ McGill University
 
-*Learning to build AI systems, data infrastructure, and tools that help people make better decisions.*
+*Learning to build systems, data infrastructure, and tools that help people make better decisions.*
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lia_Erisson-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lia-erisson/)
 [![Email](https://img.shields.io/badge/Email-Contact-6B7280?style=flat-square&logo=gmail&logoColor=white)](mailto:lia.erisson@mail.mcgill.ca)
+[![Website](https://img.shields.io/badge/My_Portfolio-0A66C2?style=flat-square&logo=Website&logoColor=white)](https://liaerisson.github.io/)
 
 </div>
 
@@ -53,7 +54,7 @@ As a Product Analyst Intern at **CHEQ**, I designed knowledge bases for a client
 
 ## Leadership & Community
 
-- VP Events — McWiCS (McGill Women in CS)
+- VP Events — McWiCS (McGill Women in Computer Science)
 - VP Technology — [McGill Journal of Economics](https://www.mjemcgill.com/)
 - Student Contributor — [McGill Office for Science and Society (Articles)](https://www.mcgill.ca/oss/articles-by-author/Lia%20Erisson)
 - Recently, I've also become VP Events at the McGill AI Society (MAIS)!
