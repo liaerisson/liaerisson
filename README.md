@@ -36,7 +36,7 @@ Lately, I’ve been exploring backend systems, information retrieval, trading, a
 
 ## Selected Work
 
-### 📈 C++ Limit Order Book & Matching Engine
+### 📈 [C++ Limit Order Book & Matching Engine](https://github.com/liaerisson/MarketSimulator)
 
 A limit order book and matching engine implementing price-time priority, FIFO order queues, direct order lookup, cancellation, and best-price matching.
 
@@ -56,13 +56,7 @@ A Java search engine built around a custom inverted index and query-processing p
 
 ### 🗃️ Summer Industry Work
 
-As a Product Analyst Intern at **CHEQ**, I worked on knowledge bases and SQL retrieval for a client-facing AI agent spanning three internal databases. My work involved mapping undocumented database relationships, resolving conflicting business definitions, writing retrieval logic, and validating agent responses through an MCP proof of concept.
-
-One of these databases continuously recorded more than 1B daily site interactions across 15,000+ customers.
-
-## Quantitative Research
-
-As a **Senior Analyst at Martlet Fund McGill**, I research, design, implement, and test quantitative trading strategies while working with junior analysts on strategy development.
+As a Product Analyst Intern at **CHEQ**, I worked on knowledge bases and SQL retrieval for a client-facing AI agent spanning three internal databases recording more than 1B daily site interactions across 15,000+ customers. My work involved mapping undocumented database relationships, resolving conflicting business definitions, writing retrieval logic, and validating agent responses through an MCP proof of concept.
 
 ## Leadership & Community
 
@@ -70,6 +64,10 @@ As a **Senior Analyst at Martlet Fund McGill**, I research, design, implement, a
 - VP Technology — [McGill Journal of Economics](https://www.mjemcgill.com/)
 - Student Contributor — [McGill Office for Science and Society](https://www.mcgill.ca/oss/articles-by-author/Lia%20Erisson)
 - VP Events — McGill AI Society (MAIS)
+
+### Quantitative Research
+
+As a **Senior Analyst at Martlet Fund McGill**, I research, design, implement, and test quantitative trading strategies while working with junior analysts on strategy development.
 
 ## Beyond the Keyboard
 
